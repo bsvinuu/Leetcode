@@ -2,7 +2,7 @@ class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
         # temp_s=[letter for letter in s]
         # temp_t=[letter for letter in t]
-        # return "".join(set(temp_t) - set(temp_s))
+        # return "".join(set(temp_t) - set(temp_s)) it failed the test case s='a' and t='aa'        
         temp_s=[letter for letter in s]
         temp_t=[letter for letter in t]
 
