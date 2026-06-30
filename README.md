@@ -17,6 +17,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/bsvinuu/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/bsvinuu/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 ## String
 | Problem Name | Difficulty |
