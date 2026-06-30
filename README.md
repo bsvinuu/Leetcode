@@ -10,6 +10,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [3668-restore-finishing-order](https://github.com/bsvinuu/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 ## Database
@@ -19,6 +20,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -27,5 +29,6 @@ This repo is to backtrack my problems i solved in leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 <!---LeetCode Topics End-->
