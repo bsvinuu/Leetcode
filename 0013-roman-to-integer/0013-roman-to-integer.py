@@ -1,5 +1,6 @@
 class Solution:
     def romanToInt(self, s: str) -> int:
+        " can do it another method as well like iterating the values from reverse order that is much more effiecnt"
         mapping_dict = {
     'I': 1,
     'V': 5,
