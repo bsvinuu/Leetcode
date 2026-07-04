@@ -12,6 +12,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0575-distribute-candies](https://github.com/bsvinuu/Leetcode/tree/main/0575-distribute-candies/) | Easy |
@@ -27,6 +28,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
@@ -41,6 +43,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/bsvinuu/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
