@@ -20,6 +20,7 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/bsvinuu/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
+| [0610-triangle-judgement](https://github.com/bsvinuu/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/bsvinuu/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 ## String
 | Problem Name | Difficulty |
