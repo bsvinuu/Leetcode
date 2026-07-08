@@ -21,6 +21,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0575-distribute-candies](https://github.com/bsvinuu/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/bsvinuu/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/bsvinuu/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3668-restore-finishing-order](https://github.com/bsvinuu/Leetcode/tree/main/3668-restore-finishing-order/) | Easy |
 | [3945-digit-frequency-score](https://github.com/bsvinuu/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -38,10 +39,12 @@ This repo is to backtrack my problems i solved in leetcode
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +71,9 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/bsvinuu/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 <!---LeetCode Topics End-->
