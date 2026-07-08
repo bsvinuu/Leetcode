@@ -1,4 +1,4 @@
-class Solution:
+class Solution: ## not optmial but divide and conquer will help
     def longestNiceSubstring(self, s: str) -> str:
         temp_list=list(map(lambda x :x ,s))
         if len(temp_list)<=1:
