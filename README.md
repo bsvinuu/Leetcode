@@ -41,6 +41,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/bsvinuu/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/bsvinuu/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3945-digit-frequency-score](https://github.com/bsvinuu/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0643-maximum-average-subarray-i](https://github.com/bsvinuu/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bsvinuu/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/bsvinuu/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
