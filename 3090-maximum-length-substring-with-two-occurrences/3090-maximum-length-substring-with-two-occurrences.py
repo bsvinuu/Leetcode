@@ -1,5 +1,8 @@
 class Solution:
     def maximumLengthSubstring(self, s: str) -> int:
+
+
+        ''' this brute force code is grt but sliding window add and sub the values its better and no need intermediate slicing '''
         max_length=0
         left,right=0,1
         while left <=len(s) and right <=len(s):
