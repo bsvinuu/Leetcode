@@ -10,6 +10,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0643-maximum-average-subarray-i](https://github.com/bsvinuu/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/bsvinuu/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bsvinuu/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bsvinuu/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/bsvinuu/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/bsvinuu/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -64,6 +65,7 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bsvinuu/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/bsvinuu/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bsvinuu/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3945-digit-frequency-score](https://github.com/bsvinuu/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
@@ -102,6 +104,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/bsvinuu/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bsvinuu/Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
