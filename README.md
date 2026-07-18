@@ -8,6 +8,7 @@ This repo is to backtrack my problems i solved in leetcode
 | ------- | ------- |
 | [0575-distribute-candies](https://github.com/bsvinuu/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bsvinuu/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/bsvinuu/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/bsvinuu/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bsvinuu/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -86,6 +87,7 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/bsvinuu/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/bsvinuu/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/bsvinuu/Leetcode/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/bsvinuu/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -100,6 +102,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/bsvinuu/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/bsvinuu/Leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -110,4 +113,8 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/bsvinuu/Leetcode/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/bsvinuu/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
