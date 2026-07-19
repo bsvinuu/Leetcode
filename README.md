@@ -24,6 +24,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0409-longest-palindrome](https://github.com/bsvinuu/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0575-distribute-candies](https://github.com/bsvinuu/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/bsvinuu/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -46,6 +47,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0013-roman-to-integer](https://github.com/bsvinuu/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
+| [0409-longest-palindrome](https://github.com/bsvinuu/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1763-longest-nice-substring](https://github.com/bsvinuu/Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/bsvinuu/Leetcode/tree/main/2269-find-the-k-beauty-of-a-number/) | Easy |
@@ -117,4 +119,8 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/bsvinuu/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/bsvinuu/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
