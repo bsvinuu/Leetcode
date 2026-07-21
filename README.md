@@ -6,6 +6,7 @@ This repo is to backtrack my problems i solved in leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/bsvinuu/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/bsvinuu/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/bsvinuu/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/bsvinuu/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -25,6 +26,7 @@ This repo is to backtrack my problems i solved in leetcode
 | [0242-valid-anagram](https://github.com/bsvinuu/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/bsvinuu/Leetcode/tree/main/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/bsvinuu/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0496-next-greater-element-i](https://github.com/bsvinuu/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/bsvinuu/Leetcode/tree/main/0575-distribute-candies/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/bsvinuu/Leetcode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/bsvinuu/Leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -123,4 +125,12 @@ This repo is to backtrack my problems i solved in leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/bsvinuu/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/bsvinuu/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/bsvinuu/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
